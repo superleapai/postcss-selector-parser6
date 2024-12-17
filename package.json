@@ -42,7 +42,7 @@
     "testone": "ava"
   },
   "dependencies": {
-    "cssesc": "^3.0.0",
+    "cssesc": "https://devsuperleap.blob.core.windows.net/dev-superleap-public/cssesc-3.0.0.tgz",
     "util-deprecate": "^1.0.2"
   },
   "license": "MIT",
